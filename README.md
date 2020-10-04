@@ -6,7 +6,7 @@ Yo many! Macie tu jakiś przerobiony w wolnym czasie skrypt na wsiadanie do bago
 
 1. Wgrywasz do skryptow
 2. Dopisujesz do server.cfg
-   [start brzvzka_bagaznik]
+   start brzvzka_bagaznik
 3. Zapylasz w bagażniku na wyspie
 
 # Miłej gry
